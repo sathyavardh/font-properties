@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #b9f2fa;
+}
+
+body{
+    font-family: "Playwrite PT", cursive;
+    font-optical-sizing: small;
+    font-weight:lighter;
+    font-style: normal;
+}
+
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    color: rebeccapurple;
+    position: sticky;
+    top: 20px;
+    width: 90%;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+main{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: lavenderblush;
+    margin: 20px auto;
+    width: 90%;
+    height: 90%;
+    
+}
